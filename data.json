@@ -1,0 +1,191 @@
+{
+    "testimonials" : [
+        {
+            "id" : 1,
+            "image" : "",
+            "name" : "Ethan Oliver",
+            "quote" : "",
+            "words" : ""
+        },
+        {
+            "id" : 2,
+            "image" : "",
+            "name" : "Ganiefah Majiet",
+            "quote" : "",
+            "words" : ""
+        },
+        {
+            "id" : 3,
+            "image" : "",
+            "name" : "Laeeq Majal",
+            "quote" : "",
+            "words" : ""
+        },
+        {
+            "id" : 4,
+            "image" : "",
+            "name" : "Mish-Al Taliep",
+            "quote" : "",
+            "words" : ""
+        },
+        {
+            "id" : 5,
+            "image" : "",
+            "name" : "Rayhaan Khan",
+            "quote" : "",
+            "words" : ""
+        },
+        {
+            "id" : 6,
+            "image" : "",
+            "name" : "Eighton-Lee Paulse",
+            "quote" : "",
+            "words" : ""
+        },
+        {
+            "id" : 8,
+            "image" : "",
+            "name" : "Abdul Azeez Kemp",
+            "quote" : "",
+            "words" : ""
+        }
+    ],
+
+    "projects" : [
+        {
+            "id" : 1,
+            "image" : "",
+            "name" : "Bootstrap Project",
+            "description" : "",
+            "github" : "",
+            "netlify" : ""
+        },
+        {
+            "id" : 2,
+            "image" : "",
+            "name" : "Javascript Project",
+            "description" : "",
+            "github" : "",
+            "netlify" : ""
+        },
+        {
+            "id" : 3,
+            "image" : "",
+            "name" : "Calendar",
+            "description" : "",
+            "github" : "",
+            "netlify" : ""
+        },
+        {
+            "id" : 4,
+            "image" : "",
+            "name" : "BMI Calendar",
+            "description" : "",
+            "github" : "",
+            "netlify" : ""
+        },
+        {
+            "id" : 5,
+            "image" : "",
+            "name" : "Calculator",
+            "description" : "",
+            "github" : "",
+            "netlify" : ""
+        },
+        {
+            "id" : 6,
+            "image" : "",
+            "name" : "Currency Converter",
+            "description" : "",
+            "github" : "",
+            "netlify" : ""
+        },
+        {
+            "id" : 7,
+            "image" : "",
+            "name" : "Temperature Converter",
+            "description" : "",
+            "github" : "",
+            "netlify" : ""
+        },
+        {
+            "id" : 8,
+            "image" : "Javascript Project Redo",
+            "name" : "",
+            "description" : "",
+            "github" : "",
+            "netlify" : ""
+        }
+    ],
+
+    "education" : [
+        {
+            "id" : 1,
+            "school" : "Zwaanwyk High School",
+            "qualification" : "Matric (grade 12)",
+            "year completed" : "November 2021"
+        },
+        {
+            "id" : 2,
+            "place" : "Life Choices Academy",
+            "qualification" : "Web and Software Development",
+            "year completed" : "2023 - present"
+        }
+    ],
+
+    "softskills" : [
+        {
+            "id" : 1,
+            "soft" : "Communication"
+        },
+        {
+            "id" : 2,
+            "soft" : "Leadership Skills"
+        },
+        {
+            "id" : 3,
+            "soft" : "Team Player"
+        },
+        {
+            "id" : 4,
+            "soft" : "Analytical Thinker"
+        },
+        {
+            "id" : 5,
+            "soft" : "Negotiation"
+        }
+    ],
+
+    "hardskills" : [
+        {
+            "id" : 1,
+            "name" : "HTML5",
+            "icon" : ""
+        },
+        {
+            "id" : 2,
+            "name" : "CSS",
+            "icon" : ""
+        },
+        {
+            "id" : 3,
+            "name" : "Javascript",
+            "icon" : ""
+        },
+        {
+            "id" : 4,
+            "name" : "Bootstrap",
+            "icon" : ""
+        },
+        {
+            "id" : 5,
+            "name" : "Vue.js",
+            "icon" : ""
+        },
+        {
+            "id" : 6,
+            "name" : "Figma",
+            "icon" : ""
+        }
+    ]
+}
