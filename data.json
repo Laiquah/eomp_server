@@ -2,131 +2,133 @@
     "testimonials" : [
         {
             "id" : 1,
-            "image" : "",
+            "image" : "https://i.postimg.cc/CxV4xX2L/IMG-9863-1-removebg-preview.png",
             "name" : "Ethan Oliver",
-            "quote" : "",
-            "words" : ""
+            "role" : "Colleague",
+            "words" : "Laiquah is an extraordinary individual who has left an indelible mark on my life. I had the privilege of knowing Laiquah for several years, and I can confidently say that she is one of the most talented, compassionate, and driven people I have ever met."
         },
         {
             "id" : 2,
-            "image" : "",
+            "image" : "https://i.postimg.cc/Pf0qYjTh/My-project.png",
             "name" : "Ganiefah Majiet",
-            "quote" : "",
-            "words" : ""
+            "role" : "Colleague",
+            "words" : "Laiquah's dedication to her craft is truly remarkable. Whether it is her professional work or personal pursuits, she consistently demonstrates an unwavering commitment to excellence. Her attention to detail and willingness to go above and beyond expectations is truly inspiring. Whenever she takes on a project, she pours her heart and soul into it, ensuring that the end result is nothing short of exceptional."
         },
         {
             "id" : 3,
-            "image" : "",
+            "image" : "https://i.postimg.cc/yxhQnKgx/20221210-172518-removebg-preview.png",
             "name" : "Laeeq Majal",
-            "quote" : "",
-            "words" : ""
+            "role" : "Colleague",
+            "words" : "What sets Laiquah apart is not just her talent, but also her genuine kindness and empathy towards others. She has an innate ability to connect with people from all walks of life and make them feel seen and valued. Her generosity knows no bounds, and she is always ready to lend a helping hand or offer words of encouragement. Laiquah's presence alone has a way of brightening up any room and bringing a sense of positivity and warmth to those around her."
         },
         {
             "id" : 4,
-            "image" : "",
+            "image" : "https://i.postimg.cc/7PXZt23H/C12-Mish-Al-Taliep-1-removebg-preview.png",
             "name" : "Mish-Al Taliep",
-            "quote" : "",
-            "words" : ""
+            "role" : "Colleague",
+            "words" : "In addition to her professional achievements, Laiquah is deeply passionate about making a positive impact in the world. She is actively involved in various charitable endeavors and is dedicated to creating a more inclusive and equitable society. Her advocacy for social justice and her relentless pursuit of equality is truly commendable."
         },
         {
             "id" : 5,
-            "image" : "",
+            "image" : "https://i.postimg.cc/cLFCK8Jk/C12-Rayhaan-Khan-2-removebg-preview.png",
             "name" : "Rayhaan Khan",
-            "quote" : "",
-            "words" : ""
+            "role" : "Colleague",
+            "words" : "Overall, Laiquah is an exceptional individual whose talent, kindness, and dedication make her a true force to be reckoned with. Her unwavering commitment to excellence, combined with her genuine compassion for others, makes her a role model for anyone aspiring to make a difference in the world. I am grateful to have crossed paths with Laiquah, and I have no doubt that she will continue to achieve remarkable things in her future endeavors."
         },
         {
             "id" : 6,
-            "image" : "",
+            "image" : "https://i.postimg.cc/DZjPBz5x/C12-C2-Eighton-Lee-Paulse-2-removebg-preview.png",
             "name" : "Eighton-Lee Paulse",
-            "quote" : "",
-            "words" : ""
+            "role" : "Colleague",
+            "words" : "Laiquah's dedication to her goals and aspirations is truly remarkable. She possesses an unwavering drive and an incredible work ethic that sets her apart. She consistently pushes herself to achieve excellence in everything she does, whether it's her professional endeavors or personal passions. Her commitment to continuous growth and learning is evident in the way she tackles challenges and embraces new opportunities."
         },
         {
             "id" : 8,
-            "image" : "",
-            "name" : "Abdul Azeez Kemp",
-            "quote" : "",
-            "words" : ""
+            "image" : "https://i.postimg.cc/ZKp4tv3v/C12-C2-Codi-Kader-1-removebg-preview.png",
+            "name" : "Codi Kader",
+            "role" : "Colleague",
+            "words" : "Beyond her impressive achievements, Laiquah is an incredibly kind-hearted and empathetic individual. She has a genuine concern for the well-being of others and always goes above and beyond to help those in need. Her ability to connect with people on a deep level and offer unwavering support and encouragement is truly admirable. Laiquah's presence has a way of creating a positive and uplifting atmosphere wherever she goes."
         }
     ],
 
     "projects" : [
         {
             "id" : 1,
-            "image" : "",
+            "image" : "https://i.postimg.cc/hPNFjD8W/Screenshot-2023-07-01-102254.png",
             "name" : "Bootstrap Project",
-            "description" : "",
-            "github" : "",
-            "netlify" : ""
+            "description" : "This is a project I built using Bootstrap, CSS, and HTML.",
+            "github" : "https://github.com/Laiquah/bootstrapproject.git",
+            "netlify" : "https://bootstrap-myportfolio-1.netlify.app/"
         },
         {
             "id" : 2,
-            "image" : "",
+            "image" : "https://i.postimg.cc/FsX3Qq1r/Screenshot-2023-07-01-102820.png",
             "name" : "Javascript Project",
-            "description" : "",
-            "github" : "",
-            "netlify" : ""
+            "description" : "My JavaScript project consists of an e-commerce website called 'Floral Enchantment.' For its development, I utilized HTML, JavaScript, CSS, and Bootstrap. The website serves as an online platform for selling flowers.",
+            "github" : "https://github.com/Laiquah/EOMP.git",
+            "netlify" : "https://eomp.netlify.app/"
         },
         {
             "id" : 3,
-            "image" : "",
-            "name" : "Calendar",
-            "description" : "",
-            "github" : "",
-            "netlify" : ""
+            "image" : "https://i.postimg.cc/fR4XDPLW/Screenshot-2023-07-01-105143.png",
+            "name" : "Temperature Converter",
+            "description" : "I created a temperature converter as a way to grasp the functioning and proper usage of JavaScript functions. The converter specifically converts temperatures from Fahrenheit to degrees Celsius. To build it, I employed Bootstrap, HTML, CSS, and JavaScript.",
+            "github" : "https://github.com/Laiquah/tempconverter.git",
+            "netlify" : "https://laiquahtempconverter.netlify.app/"
         },
         {
             "id" : 4,
-            "image" : "",
-            "name" : "BMI Calendar",
-            "description" : "",
-            "github" : "",
-            "netlify" : ""
+            "image" : "https://i.postimg.cc/d3WtxLxS/Screenshot-2023-07-01-104135.png",
+            "name" : "BMI Calculator",
+            "description" : "As part of my JavaScript exercises, I developed a BMI (Body Mass Index) calculator. To implement this calculator, I utilized CSS, HTML, Bootstrap, and JavaScript. The calculator allows users to input their weight and height to calculate their BMI, providing them with an indication of their body composition.",
+            "github" : "https://github.com/Laiquah/BMIcalculator.git",
+            "netlify" : "https://laiquahbmicalculator.netlify.app/"
         },
         {
             "id" : 5,
-            "image" : "",
+            "image" : "https://i.postimg.cc/QtMS1zcG/Screenshot-2023-07-01-103054.png",
             "name" : "Calculator",
-            "description" : "",
-            "github" : "",
-            "netlify" : ""
+            "description" : "As part of my JavaScript exercises, I created a calculator application. This calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. To develop it, I utilized CSS, HTML, Bootstrap, and JavaScript. The calculator interface is designed using HTML and CSS, with Bootstrap providing additional styling and responsiveness. The JavaScript code handles the calculations and updates the display based on user input.",
+            "github" : "https://github.com/Laiquah/calculator.git",
+            "netlify" : "https://laiquahcalculator.netlify.app/"
         },
         {
             "id" : 6,
-            "image" : "",
+            "image" : "https://i.postimg.cc/vmqyypzc/Screenshot-2023-07-01-104306.png",
             "name" : "Currency Converter",
-            "description" : "",
-            "github" : "",
-            "netlify" : ""
+            "description" : "As part of my JavaScript exercises, I built a currency converter application. This application enables users to convert currencies from one denomination to another. To accomplish this, I employed CSS, HTML, Bootstrap, and JavaScript. The user interface was designed using HTML and styled using CSS and Bootstrap for a visually appealing and responsive layout. JavaScript was responsible for handling the currency conversion logic and updating the results dynamically based on user input.",
+            "github" : "https://github.com/Laiquah/currency.git",
+            "netlify" : "https://laiquahcurrencyconverter.netlify.app/"
         },
         {
             "id" : 7,
-            "image" : "",
-            "name" : "Temperature Converter",
-            "description" : "",
-            "github" : "",
-            "netlify" : ""
+            "image" : "https://i.postimg.cc/43kmzTgj/Screenshot-2023-07-01-102531.png",
+            "name" : "Portfolio with Javascript",
+            "description" : "As part of my JavaScript exercises, I developed a portfolio website using CSS, HTML, Bootstrap, and JavaScript. The portfolio showcases my work, skills, and experiences. The HTML and CSS were used to structure and style the website, respectively. Bootstrap was employed to enhance the layout and responsiveness of the portfolio, making it visually appealing on various devices. JavaScript was utilized to add interactivity, such as animations, dynamic content, and navigation functionality, providing an engaging user experience.",
+            "github" : "https://github.com/Laiquah/PortfolioWithBSAndJS.git",
+            "netlify" : "https://laiquahportfolio.netlify.app/"
         },
         {
             "id" : 8,
-            "image" : "Javascript Project Redo",
-            "name" : "",
-            "description" : "",
-            "github" : "",
-            "netlify" : ""
+            "image" : "https://i.postimg.cc/ZnfpxYFJ/Screenshot-2023-07-01-104438.png",
+            "name" : "Javascript Project Redo",
+            "description" : "As part of my JavaScript exercises, I undertook the task of redesigning an e-commerce website. To accomplish this, I utilized CSS, HTML, Bootstrap, JavaScript, and Vue.js. CSS was employed to style and enhance the appearance of the website, while HTML provided the structure of the different web pages. Bootstrap was utilized to create a responsive layout and ensure compatibility across various devices. JavaScript was responsible for implementing interactive features and enhancing the functionality of the website. Additionally, Vue.js, a JavaScript framework, was used to handle the dynamic rendering of the product listings, shopping cart, and other components, providing a seamless and efficient user experience.",
+            "github" : "https://github.com/Laiquah/eompredo.git",
+            "netlify" : "https://eompredolaiquah.netlify.app/"
         }
     ],
 
     "education" : [
         {
             "id" : 1,
+            "image" : "https://i.postimg.cc/NM5zSwcD/My-project-2.png",
             "school" : "Zwaanwyk High School",
             "qualification" : "Matric (grade 12)",
             "year completed" : "November 2021"
         },
         {
             "id" : 2,
+            "image" : "https://i.postimg.cc/RVHzqK2d/My-project-3.png",
             "place" : "Life Choices Academy",
             "qualification" : "Web and Software Development",
             "year completed" : "2023 - present"
@@ -160,32 +162,43 @@
         {
             "id" : 1,
             "name" : "HTML5",
-            "icon" : ""
+            "icon" : "https://i.postimg.cc/fLXZ0drY/icons8-html5-150.png"
         },
         {
             "id" : 2,
             "name" : "CSS",
-            "icon" : ""
+            "icon" : "https://i.postimg.cc/bY7DMHPf/icons8-css-150.png"
         },
         {
             "id" : 3,
             "name" : "Javascript",
-            "icon" : ""
+            "icon" : "https://i.postimg.cc/J0pr5kb0/icons8-javascript-150.png"
         },
         {
             "id" : 4,
             "name" : "Bootstrap",
-            "icon" : ""
+            "icon" : "https://i.postimg.cc/dVmyG7zP/icons8-bootstrap-150.png"
         },
         {
             "id" : 5,
             "name" : "Vue.js",
-            "icon" : ""
+            "icon" : "https://i.postimg.cc/kM2q0BFQ/icons8-vuejs-150.png"
         },
         {
             "id" : 6,
             "name" : "Figma",
-            "icon" : ""
+            "icon" : "https://i.postimg.cc/MK04NS40/icons8-figma-150.png"
+        }
+    ],
+
+
+    "experience" : [
+        {
+            "id" : 1,
+            "Year" : "2022",
+            "place" : "Mr Price",
+            "role" : "Sales Assistant",
+            "description" : "I was responsible for providing customer assistance in a retail or customer-oriented environment. I helped customers find and purchase products, possess product knowledge, contribute to sales targets, handle transactions, provide excellent customer service, maintain store appearance, and receive product training."
         }
     ]
 }
