@@ -80,7 +80,7 @@
             "id" : 4,
             "image" : "https://i.postimg.cc/d3WtxLxS/Screenshot-2023-07-01-104135.png",
             "name" : "BMI Calculator",
-            "description" : "As part of my JavaScript exercises, I developed a BMI (Body Mass Index) calculator. To implement this calculator, I utilized CSS, HTML, Bootstrap, and JavaScript. The calculator allows users to input their weight and height to calculate their BMI, providing them with an indication of their body composition.",
+            "description" : "As part of my JavaScript exercises, I developed a BMI (Body Mass Index) calculator using CSS, HTML, Bootstrap, and JavaScript. This calculator enables users to input their weight and height to calculate their BMI, providing valuable insights into their body composition.",
             "github" : "https://github.com/Laiquah/BMIcalculator.git",
             "netlify" : "https://laiquahbmicalculator.netlify.app/"
         },
@@ -88,7 +88,7 @@
             "id" : 5,
             "image" : "https://i.postimg.cc/QtMS1zcG/Screenshot-2023-07-01-103054.png",
             "name" : "Calculator",
-            "description" : "As part of my JavaScript exercises, I created a calculator application. This calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. To develop it, I utilized CSS, HTML, Bootstrap, and JavaScript. The calculator interface is designed using HTML and CSS, with Bootstrap providing additional styling and responsiveness. The JavaScript code handles the calculations and updates the display based on user input.",
+            "description" : "As part of my JavaScript exercises, I created a calculator application using CSS, HTML, Bootstrap, and JavaScript. The calculator allows users to perform basic arithmetic operations and features a visually appealing and responsive interface with JavaScript handling the calculations and display updates.",
             "github" : "https://github.com/Laiquah/calculator.git",
             "netlify" : "https://laiquahcalculator.netlify.app/"
         },
@@ -96,7 +96,7 @@
             "id" : 6,
             "image" : "https://i.postimg.cc/vmqyypzc/Screenshot-2023-07-01-104306.png",
             "name" : "Currency Converter",
-            "description" : "As part of my JavaScript exercises, I built a currency converter application. This application enables users to convert currencies from one denomination to another. To accomplish this, I employed CSS, HTML, Bootstrap, and JavaScript. The user interface was designed using HTML and styled using CSS and Bootstrap for a visually appealing and responsive layout. JavaScript was responsible for handling the currency conversion logic and updating the results dynamically based on user input.",
+            "description" : "As part of my JavaScript exercises, I built a currency converter application using CSS, HTML, Bootstrap, and JavaScript. The application allows users to easily convert currencies with a visually appealing and responsive user interface, powered by JavaScript for dynamic updates and currency conversion logic.",
             "github" : "https://github.com/Laiquah/currency.git",
             "netlify" : "https://laiquahcurrencyconverter.netlify.app/"
         },
@@ -104,7 +104,7 @@
             "id" : 7,
             "image" : "https://i.postimg.cc/43kmzTgj/Screenshot-2023-07-01-102531.png",
             "name" : "Portfolio with Javascript",
-            "description" : "As part of my JavaScript exercises, I developed a portfolio website using CSS, HTML, Bootstrap, and JavaScript. The portfolio showcases my work, skills, and experiences. The HTML and CSS were used to structure and style the website, respectively. Bootstrap was employed to enhance the layout and responsiveness of the portfolio, making it visually appealing on various devices. JavaScript was utilized to add interactivity, such as animations, dynamic content, and navigation functionality, providing an engaging user experience.",
+            "description" : "As part of my JavaScript exercises, I developed a portfolio website using CSS, HTML, Bootstrap, and JavaScript. The website showcases my work, skills, and experiences through a visually appealing and interactive design, optimized for different devices.",
             "github" : "https://github.com/Laiquah/PortfolioWithBSAndJS.git",
             "netlify" : "https://laiquahportfolio.netlify.app/"
         },
@@ -112,7 +112,7 @@
             "id" : 8,
             "image" : "https://i.postimg.cc/ZnfpxYFJ/Screenshot-2023-07-01-104438.png",
             "name" : "Javascript Project Redo",
-            "description" : "As part of my JavaScript exercises, I undertook the task of redesigning an e-commerce website. To accomplish this, I utilized CSS, HTML, Bootstrap, JavaScript, and Vue.js. CSS was employed to style and enhance the appearance of the website, while HTML provided the structure of the different web pages. Bootstrap was utilized to create a responsive layout and ensure compatibility across various devices. JavaScript was responsible for implementing interactive features and enhancing the functionality of the website. Additionally, Vue.js, a JavaScript framework, was used to handle the dynamic rendering of the product listings, shopping cart, and other components, providing a seamless and efficient user experience.",
+            "description" : "I redesigned an e-commerce website using CSS, HTML, Bootstrap, JavaScript, and Vue.js to improve its appearance, create a responsive layout, implement interactive features, and provide dynamic rendering for a seamless user experience.",
             "github" : "https://github.com/Laiquah/eompredo.git",
             "netlify" : "https://eompredolaiquah.netlify.app/"
         }
