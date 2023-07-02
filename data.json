@@ -195,6 +195,7 @@
     "experience" : [
         {
             "id" : 1,
+            "image" : "https://i.postimg.cc/4xJq6Ym6/OIP-1.jpg",
             "Year" : "2022",
             "place" : "Mr Price",
             "role" : "Sales Assistant",
