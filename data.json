@@ -124,14 +124,14 @@
             "image" : "https://i.postimg.cc/NM5zSwcD/My-project-2.png",
             "place" : "Zwaanwyk High School",
             "qualification" : "Matric (grade 12)",
-            "year completed" : "November 2021"
+            "year" : "November 2021"
         },
         {
             "id" : 2,
             "image" : "https://i.postimg.cc/RVHzqK2d/My-project-3.png",
             "place" : "Life Choices Academy",
             "qualification" : "Web and Software Development",
-            "year completed" : "2023 - present"
+            "year" : "2023 - present"
         }
     ],
 
