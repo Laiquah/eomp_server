@@ -192,7 +192,7 @@
             "id" : 5,
             "name" : "Vue.js",
             "icon" : "https://i.postimg.cc/kM2q0BFQ/icons8-vuejs-150.png",
-            "description" : "I can use Vue.js to build single-page applications. Additionally, I can create interactive and dynamic web experiences by leveraging Vue.js' component-based architecture, reactivity system, and extensive ecosystem of plugins."
+            "description" : "I can use Vue.js to build single-page applications. Additionally, I can create interactive and dynamic web experiences by leveraging Vue.js' component-based architecture, reactivity system."
         },
         {
             "id" : 6,
