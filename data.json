@@ -138,23 +138,28 @@
     "softskills" : [
         {
             "id" : 1,
-            "soft" : "Communication"
+            "soft" : "Communication",
+            "description" : "As a house captain and RCL (Representative Council of Learners) in high school, you experienced firsthand the importance of communication for collaboration, understanding, and productivity. Communication plays a crucial role in ensuring accurate task communication, minimizing errors, and fostering a productive environment. It encompasses various channels such as verbal, written, and non-verbal, while active listening, relationship-building, conflict resolution, and promoting a positive culture are essential components. Clear language, appropriate channels, feedback, and leveraging technology tools further enhance communication, ultimately leading to improved teamwork and a conducive work environment."
         },
         {
             "id" : 2,
-            "soft" : "Leadership Skills"
+            "soft" : "Leadership Skills",
+            "description" : "As a class monitor and RCL in high school, I had the opportunity to utilize my leadership skills to guide, inspire, and influence others towards shared objectives. Through effective communication, problem-solving, and empathy, I were able to create a positive impact in various areas of life. These skills extend beyond the school environment and can be valuable in personal, professional, and community settings, allowing I to make a difference and achieve common goals."
         },
         {
             "id" : 3,
-            "soft" : "Team Player"
+            "soft" : "Team Player",
+            "description" : "My active participation in group activities and experience as a house captain has provided I with a deep understanding of the key aspects of leadership within a team setting, such as collaboration, effective communication, reliability, flexibility, respect, conflict resolution, support, positive attitude, continuous learning, and fostering a supportive team environment. My ability to prioritize collective goals and create a harmonious team dynamic demonstrates my capacity to contribute to the success of a team through these qualities and behaviors."
         },
         {
             "id" : 4,
-            "soft" : "Analytical Thinker"
+            "soft" : "Analytical Thinker",
+            "description" : "In my role as a leader and headgirl, I applied analytical skills to make informed decisions that had a significant impact on the school. My responsibilities necessitated gathering and interpreting data, demonstrating critical thinking, attention to detail, and proficiency in quantitative analysis. Effective communication, continuous learning, and connecting analytical insights to strategic objectives were essential components of my role, underscoring the significance of analytical skills in driving informed decision-making and problem-solving as a leader."
         },
         {
             "id" : 5,
-            "soft" : "Negotiation"
+            "soft" : "Negotiation",
+            "description" : "Working for Mr Price, my experience provided opportunities to utilize negotiation skills while interacting with customers. Through discussions, compromise, and problem-solving, my aim was to achieve mutually satisfying agreements. Effective communication, flexibility, problem-solving, emotional intelligence, assertiveness, collaboration, and professionalism were essential in my role, highlighting the practical application of negotiation skills in a customer-focused setting."
         }
     ],
 
