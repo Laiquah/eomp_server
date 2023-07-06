@@ -167,32 +167,38 @@
         {
             "id" : 1,
             "name" : "HTML5",
-            "icon" : "https://i.postimg.cc/fLXZ0drY/icons8-html5-150.png"
+            "icon" : "https://i.postimg.cc/fLXZ0drY/icons8-html5-150.png",
+            "description" : "I know how to structure web pages using HTML5, and I have knowledge of HTML tags, elements, attributes, and their proper usage. Additionally, I have the ability to organize and format content, incorporate multimedia elements, create forms, and understand the basics of HTML5 semantics."
         },
         {
             "id" : 2,
             "name" : "CSS",
-            "icon" : "https://i.postimg.cc/bY7DMHPf/icons8-css-150.png"
+            "icon" : "https://i.postimg.cc/bY7DMHPf/icons8-css-150.png",
+            "description" : "I know how to control the appearance of HTML elements by defining colors, fonts, layouts, and other visual properties. I can also select elements, apply styling, create responsive designs, use selectors and specificity, optimize code, and enhance the overall visual appeal and user experience of web pages."
         },
         {
             "id" : 3,
             "name" : "Javascript",
-            "icon" : "https://i.postimg.cc/J0pr5kb0/icons8-javascript-150.png"
+            "icon" : "https://i.postimg.cc/J0pr5kb0/icons8-javascript-150.png",
+            "description" : "I can use JavaScript for adding functionality, performing calculations, manipulating data, and responding to user interactions on websites. I can also write and execute scripts, work with variables and data types, manipulate the DOM, handle events, and implement logic and control structures to create dynamic and engaging web experiences."
         },
         {
             "id" : 4,
             "name" : "Bootstrap",
-            "icon" : "https://i.postimg.cc/dVmyG7zP/icons8-bootstrap-150.png"
+            "icon" : "https://i.postimg.cc/dVmyG7zP/icons8-bootstrap-150.png",
+            "description" : "I use Bootstrap for building responsive and visually appealing web pages. I am also knowledgeable in customizing Bootstrap's code and incorporating my own CSS to tailor the design according to my preferences."
         },
         {
             "id" : 5,
             "name" : "Vue.js",
-            "icon" : "https://i.postimg.cc/kM2q0BFQ/icons8-vuejs-150.png"
+            "icon" : "https://i.postimg.cc/kM2q0BFQ/icons8-vuejs-150.png",
+            "description" : "I can use Vue.js to build single-page applications. Additionally, I can create interactive and dynamic web experiences by leveraging Vue.js' component-based architecture, reactivity system, and extensive ecosystem of plugins and libraries."
         },
         {
             "id" : 6,
             "name" : "Figma",
-            "icon" : "https://i.postimg.cc/MK04NS40/icons8-figma-150.png"
+            "icon" : "https://i.postimg.cc/MK04NS40/icons8-figma-150.png",
+            "description" : "I use Figma as a design and prototyping tool for creating user interfaces, graphics, and interactive prototypes for my websites. Figma streamlines the design process and enables me to create visually stunning and interactive designs specifically for web applications."
         }
     ],
 
