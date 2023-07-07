@@ -56,7 +56,7 @@
             "id" : 1,
             "image" : "https://i.postimg.cc/hPNFjD8W/Screenshot-2023-07-01-102254.png",
             "name" : "Bootstrap Project",
-            "description" : "This is a project I built using Bootstrap, CSS, and HTML.",
+            "description" : "This is a project I built using Bootstrap, CSS, and HTML. My Bootstrap project consists of a portfolio website called 'Bootstrap Portfolio'. For its development, I utilized HTML, CSS, and Bootstrap. The website serves as an online platform for getting to know about me.",
             "github" : "https://github.com/Laiquah/bootstrapproject.git",
             "netlify" : "https://bootstrap-myportfolio-1.netlify.app/"
         },
